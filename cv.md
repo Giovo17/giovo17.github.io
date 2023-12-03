@@ -69,42 +69,6 @@ jsarr:
 {% include cv/skill.html skill=skill %}
 {% endfor %}
 
-<!-->
-## Service
-
-<div class="cv-service-title"><b>Organizer</b></div>
-{% for venue in site.data.organizer %}
-{% include cv/venue.html venue=venue %}
-{% endfor %}
-
-<div class="cv-service-title"><b>Program Commitee</b></div>
-{% for venue in site.data.pc %}
-{% include cv/venue.html venue=venue %}
-{% endfor %}
-
-<div class="cv-service-title"><b>Reviewer</b></div>
-{% for venue in site.data.reviewer %}
-{% include cv/venue.html venue=venue %}
-{% endfor %}
-
-<div class="cv-service-title"><b>Institutional</b></div>
-{% for institution in site.data.institutional %}
-{% include cv/institutional.html institution=institution %}
-{% endfor %}
-
-<div class="cv-service-title"><b>Member</b></div>
-{% for member in site.data.memberships %}
-{% include cv/member.html member=member %}
-{% endfor %}
-
-
-## References
-
-{% for reference in site.data.references %}
-{% include cv/reference.html reference=reference %}
-{% endfor %}
-<-->
-
 
 [cv]: {{ site.url }}/cv.pdf "My CV."
 

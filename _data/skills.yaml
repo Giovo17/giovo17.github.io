@@ -21,12 +21,12 @@
     - Scikit-learn
     - Manim
 
-- name: Web and Writing
+- name: Web, Databases and Others
   items: 
     - HTML
     - CSS
     - JavaScript
-    - SQL
+    - MySQL
     - LaTeX
     - Markdown
     - Git
