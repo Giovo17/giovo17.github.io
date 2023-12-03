@@ -25,7 +25,7 @@ title: Home
 		<a href="{{ site.url }}/everything-else"><div><i class="fa fa-list-ul icon icon-right-space"></i>Everything Else</div></a>
 	</div>
 	<div style="height: 1rem"></div>
-	<h1>Site under construction</h>
+	<h1>Site under construction</h1>
 	<div style="height: 1rem"></div>
 	<div>
 	Computer Engineer, master student in Data Science at University of Catania, private professor, ML research enthusiast and applied AI solutions lover.
