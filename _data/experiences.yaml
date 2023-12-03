@@ -1,23 +1,14 @@
-- institution: Apple
-  location: "Seattle, WA"
-  position: Research Scientist
-  group: "Design + Visualization Group"
-  year: "Present — Jan. 2021"
-  description: "Research and design for everyone in the machine learning process—the developers who build models, the designers who create experiences, and the people who use technology."
-  institution-url: https://apple.com
-  group-url: https://machinelearning.apple.com/
-  type: industry
-
-- institution: Apple
-  location: "Seattle, WA"
-  position: Research Intern
+- institution: University of Catania
+  location: "Catania, IT"
+  position: Research assistant
   group: "Turi Human-centered Machine Learning Group"
-  year: Summer 2019
+  year: Feb. - May 2023
   mentors:
-    - Kanit Wongsuphasawat
-    - Kayur Patel
-  description: "Designed and developed interactive visualizations for data iteration in machine learning, published at CHI 2020."
-  institution-url: https://apple.com
-  group-url: https://apple.com
+    - Prof. Francesco Beritelli
+    - Ing. Michele Russo
+  description: "Analisys and implementation of GAN based tecniques for anomaly detection in industrial time-series datasetAnalisys and implementation of GAN based tecniques for anomaly detection in industrial time-series datasets."
+  institution-url: https://unict.it
+  group-url: https://unict.it
   type: academic
+  #type: industry
 

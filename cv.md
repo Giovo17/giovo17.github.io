@@ -30,13 +30,7 @@ jsarr:
 </div> -->
 
 <div>
-I design and develop <b><span class="cv-vis">interactive interfaces</span></b> to help people <b><span class="cv-ai">understand machine learning</span></b> models and data-driven systems. Besides building tools, I also create data visualizations and write interactive articles to simply communicate complex ideas.
-</div>
-
-<div class="cv-spacer"></div>
-
-<div>
-I have collaborated with researchers, designers, developers, and artists while working at Apple, Microsoft Research, NASA Jet Propulsion Lab, and Pacific Northwest National Lab.
+Computer Engineer, master student in Data Science at University of Catania, private professor, ML research enthusiast and applied AI solutions lover.
 </div>
 
 <div class="cv-spacer"></div>

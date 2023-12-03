@@ -15,11 +15,12 @@
   cv-group: 2
 
 - id: linkedin
-  description: "giovannispadaro"
+  description: "Giovanni Spadaro"
   color: "#0077b5"
   class: "fab fa-linkedin-in icon"
   url: "https://www.linkedin.com/in/giovanni-spadaro-75b916155/"
   on-homepage: true
+  cv-group: 2
 
 #- id: mastodon
 #  description: "fredhohman"
