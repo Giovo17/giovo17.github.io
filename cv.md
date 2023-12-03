@@ -10,29 +10,6 @@ jsarr:
 
 <p id="cv-subtitle"><i>Data Sciente master student</i></p>
 
-<!-- <div id="cv-toc">
-<ul class="cv-description">
-	<li>Education</li>
-	<li>Industry Research</li>
-	<li>Academic Research</li>
-	<li>Honors and Awards</li>
-	<li>Publications</li>
-	<li>Talks</li>
-	<li>Press</li>
-	<li>Teaching</li>
-	<li>Mentoring</li>
-	<li>Grants and Funding</li>
-	<li>Interactive Articles</li>
-	<li>Service</li>
-	<li>Design</li>
-	<li>References</li>
-</ul>
-</div> -->
-
-<div>
-Computer Engineer, master student in Data Science at University of Catania, private professor, ML research enthusiast and applied AI solutions lover.
-</div>
-
 <div class="cv-spacer"></div>
 
 <div class="cv-image-links-wrapper">
@@ -78,11 +55,13 @@ Computer Engineer, master student in Data Science at University of Catania, priv
 {% endif %}
 {% endfor %}
 
+<!-->
 ## Teaching
 
 {% for teach in site.data.teaching %}
 {% include cv/teaching.html teach=teach %}
 {% endfor %}
+<-->
 
 ## Technology Skills
 
@@ -90,6 +69,7 @@ Computer Engineer, master student in Data Science at University of Catania, priv
 {% include cv/skill.html skill=skill %}
 {% endfor %}
 
+<!-->
 ## Service
 
 <div class="cv-service-title"><b>Organizer</b></div>
@@ -123,7 +103,7 @@ Computer Engineer, master student in Data Science at University of Catania, priv
 {% for reference in site.data.references %}
 {% include cv/reference.html reference=reference %}
 {% endfor %}
-
+<-->
 
 
 [cv]: {{ site.url }}/cv.pdf "My CV."
