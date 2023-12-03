@@ -47,12 +47,14 @@ title: Home
 </p>
 
 <div class="cover-wrapper cover-wrapper-3-col l-page">
+	{%comment%}
 	{% assign sortedPublications = site.categories.papers | sort: 'feature-order' %}
 	{% for feature in sortedPublications %}
 		{% if feature.featured == true %}
 			{% include feature.html feature=feature %}
 		{% endif %}
 	{% endfor %}
+	{%endcomment%}
 </div>
 
 <br>
@@ -63,16 +65,20 @@ title: Home
 </p>
 
 <div class="cover-wrapper cover-wrapper-1-col l-text">
+	{%comment%}
 	{% include dissertation/document.html details=false location=home %}
+	{%endcomment%}
 </div>
 
 <div class="cover-wrapper cover-wrapper-3-col l-page">
+	{%comment%}
 	{% assign sortedPublications = site.categories.papers | sort: 'feature-order' %}
 	{% for feature in sortedPublications %}
 		{% if feature.dissertation == true %}
 			{% include feature.html feature=feature %}
 		{% endif %}
 	{% endfor %}
+	{%endcomment%}
 </div>
 
 <br>
@@ -83,11 +89,13 @@ title: Home
 </p>
 
 <div class="cover-wrapper cover-wrapper-2-col l-middle">
+	{%comment%}
 	{% for feature in site.data.designs %}
 		{% if feature.featured == true %}
 			{% include feature.html feature=feature %}
 		{% endif %}
 	{% endfor %}
+	{%endcomment%}
 </div>
 
 <br>
@@ -99,6 +107,7 @@ title: Home
 </p>
 
 <div class="cover-wrapper cover-wrapper-3-col l-page">
+	{%comment%}
 	{% assign sortedArticles = site.data.articles | where: "featured", true %}
 	{% assign ia = site.categories.papers | where:"permalink", "papers/interactive-articles" %}
 
@@ -110,6 +119,7 @@ title: Home
 
 	{% assign feature = ia[0] %}
 	{% include feature.html feature=feature %}
+	{%endcomment%}
 </div>
 
 <br>
@@ -120,10 +130,12 @@ title: Home
 </p>
 
 <div class="cover-wrapper cover-wrapper-2-col l-middle">
+	{%comment%}
 	{% assign parametric = site.data.articles | where: "parametric-issue", true %}
 	{% for feature in parametric %}
 		{% include feature.html feature=feature %}
 	{% endfor %}
+	{%endcomment%}
 </div>
 
 

@@ -13,6 +13,14 @@
     - Matlab
     - Java
 
+- name: Python libraries
+  items:
+    - Numpy
+    - Pandas
+    - PyTorch
+    - Scikit-learn
+    - Manim
+
 - name: Web and Writing
   items: 
     - HTML
