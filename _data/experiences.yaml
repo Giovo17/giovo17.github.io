@@ -1,14 +1,12 @@
 - institution: University of Catania
   location: "Catania, IT"
   position: Research assistant
-  group: "Turi Human-centered Machine Learning Group"
   year: Feb. - May 2023
   mentors:
     - Prof. Francesco Beritelli
     - Ing. Michele Russo
   description: "Analisys and implementation of GAN based tecniques for anomaly detection in industrial time-series datasetAnalisys and implementation of GAN based tecniques for anomaly detection in industrial time-series datasets."
   institution-url: https://unict.it
-  group-url: https://unict.it
   type: academic
   #type: industry
 
