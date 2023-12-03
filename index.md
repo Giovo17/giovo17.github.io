@@ -25,18 +25,15 @@ title: Home
 		<a href="{{ site.url }}/projects"><div><i class="fa fa-shapes icon icon-right-space"></i>Projects</div></a>
 		<a href="{{ site.url }}/everything-else"><div><i class="fa fa-list-ul icon icon-right-space"></i>Everything Else</div></a>
 	</div>
-	<div>
-		placeholder
-	</div>
 	<div style="height: 1rem"></div>
 	<div>
-		placeholder
+	Site under construction
 	</div>
-	<div style="height: 1rem"></div>
-	<div>
-		placeholder
-	</div>
+
 </div>
+
+<!-->
+
 
 <hr class="l-middle home-hr">
 
@@ -138,7 +135,7 @@ title: Home
 	{%endcomment%}
 </div>
 
-
+<-->
 
 [gt]: http://www.gatech.edu "Georgia Tech"
 [cse]: http://cse.gatech.edu "Georgia Tech Computational Science and Engineering"
