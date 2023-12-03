@@ -33,12 +33,4 @@ title: Home
 
 </div>
 
-[cv]: {{ site.url }}/cv
-[polo]: http://www.cc.gatech.edu/~dchau/ "Polo Chau"
-[alex]: http://va.gatech.edu/endert/ "Alex Endert"
-[poloclub]: http://poloclub.gatech.edu "Polo Club of Data Science"
-[nstrf]: https://www.nasa.gov/strg/nstrf "NASA Space Technology Research Fellowship"
 
-[gt]: http://www.gatech.edu
-[cse]: http://cse.gatech.edu
-[coc]: http://www.cc.gatech.edu
