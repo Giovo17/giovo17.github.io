@@ -1,7 +1,6 @@
 /* TEAM */
-	Author: Fred Hohman
-	Twitter: @fredhohman
-	Location: Seattle, United States
+	Author: Giovanni Spadaro
+	Location: Catania, Italy
 
 /* SITE */
     Language: English

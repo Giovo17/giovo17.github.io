@@ -1,6 +1,6 @@
-title: Fred Hohman
-tagline: Research Scientist at Apple
-url: http://fredhohman.com
+title: Giovanni Spadaro
+tagline: Data Science master student at UNICT
+url: https://giovannispadaro.it
 baseurl: ""
 # gems: [jekyll-paginate]
 # paginate: 5
@@ -14,9 +14,9 @@ sass:
   style: compressed
 
 author:
-  name: Fred Hohman
-  url: http://fredhohman.com
-  email: fred.hohman@gmail.com
+  name: Giovanni Spadaro
+  url: https://giovannispadaro.it
+  email: giovanispada17.gs@tutanota.com
 
 markdown: kramdown
 highlighter: rouge
