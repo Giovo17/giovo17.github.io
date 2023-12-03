@@ -55,13 +55,6 @@ jsarr:
 {% endif %}
 {% endfor %}
 
-<!-->
-## Teaching
-
-{% for teach in site.data.teaching %}
-{% include cv/teaching.html teach=teach %}
-{% endfor %}
-<-->
 
 ## Technology Skills
 
