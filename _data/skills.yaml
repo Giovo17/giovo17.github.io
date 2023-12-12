@@ -1,7 +1,8 @@
 - name: OS
   items:
     - Mac OS X
-    - Ubuntu/Arch Linux
+    - Ubuntu
+    - Arch Linux
     - Unix Command Line
     - Windows
 

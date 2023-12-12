@@ -39,13 +39,7 @@ jsarr:
 {% endfor %}
 {:/}
 
-## Industry Research Experience
 
-{% for experience in site.data.experiences %}
-{% if experience.type == 'industry' %}
-{% include cv/experience.html experience=experience %}
-{% endif %}
-{% endfor %}
 
 ## Academic Research Experience
 
