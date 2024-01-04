@@ -1,6 +1,6 @@
 - degree: "MSc in Data Science"
-  years: "Present -"
-  years-extra: "Oct 2022"
+  years: "Oct 2022 -"
+  years-extra: "Present"
   institution: University of Catania
   location: "Catania, IT"
   institution-url: https://www.unict.it/
@@ -8,8 +8,8 @@
     - "Areas of study: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Statistics, Data Analytics"
 
 - degree: "BSc in Computer Engineering"
-  years: "Oct 2022 —"
-  years-extra: "Sep. 2018"
+  years: "Sep. 2018 —"
+  years-extra: "Oct 2022"
   institution: University of Catania
   location: "Catania, IT"
   thesis: "Predictive algorithms' application in medical diagnosis"
