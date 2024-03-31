@@ -56,6 +56,10 @@ jsarr:
 {% endfor %}
 
 
+I authorize the processing of the personal data contained in my curriculum vitae in accordance with Article 13 of Legislative Decree 196/2003 and Article 13 of EU Regulation 2016/679 on the protection of individuals with regard to the processing of personal data.
+
+
+
 [cv]: {{ site.url }}/files/cv.pdf "My CV."
 
 [github]: https:/www.github.com/Giovo17 "github.com/Giovo17"
