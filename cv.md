@@ -8,7 +8,7 @@ jsarr:
 <h1 id="cv-title"><a href="{{ site.url }}">Giovanni Spadaro</a></h1>
 
 
-<p id="cv-subtitle"><i>Data Sciente master student</i></p>
+<p id="cv-subtitle"><i>Data Science master student</i></p>
 
 <div class="cv-spacer"></div>
 
@@ -40,7 +40,6 @@ jsarr:
 {:/}
 
 
-
 ## Academic Research Experience
 
 {% for experience in site.data.experiences %}
@@ -50,13 +49,17 @@ jsarr:
 {% endfor %}
 
 
-## Technology Skills
+## Courses and Certificates
 
-{% for skill in site.data.skills %}
-{% include cv/skill.html skill=skill %}
+{% for cc in site.data.courses_certifications %}
+{% include cv/courses_certificates.html cc=cc %}
+{% endif %}
 {% endfor %}
 
 
-[cv]: {{ site.url }}/cv.pdf "My CV."
+[cv]: {{ site.url }}/files/cv.pdf "My CV."
 
 [github]: https:/www.github.com/Giovo17 "github.com/Giovo17"
+
+
+

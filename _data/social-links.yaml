@@ -1,8 +1,8 @@
 - id: email
-  description: "giovannispada17.gs@tutanota.com"
+  description: "giovannispada17.gs@gmail.com"
   color: "#515151"
   class: "fas fa-envelope icon"
-  url: "mailto:giovannispada17.gs@tutanota.com"
+  url: "mailto:giovannispada17.gs@gmail.com"
   on-homepage: true
   cv-group: 1
 
@@ -18,7 +18,7 @@
   description: "Giovanni Spadaro"
   color: "#0077b5"
   class: "fab fa-linkedin-in icon"
-  url: "https://www.linkedin.com/in/giovanni-spadaro-75b916155/"
+  url: "https://www.linkedin.com/in/giovanni-spadaro17/"
   on-homepage: true
   cv-group: 2
 

@@ -1,0 +1,35 @@
+- institution: University of Catania
+  location: "Catania, IT"
+  year: Oct. - Dec 2023
+  title: "How to build and use a Big Data Platform on the AWS Cloud"
+  description: 
+  certificate: ../files/How_to_build_and_use_a_Big_Data_Platform_on_the_AWS_Cloud.pdf
+
+- institution: Wylab
+  location: "Remote - Chiavari, IT"
+  year: Apr. - Jul. 2023
+  title: "Volley Data Analyst"
+  description: "1. Deepen the application of Internet of Things and Artificial Intelligence technologies in Consumer Electronics, Cloud and BigData. 2. Improve ideation, project management and problem-solvingskills. 3. Professional placement."
+  institution-url: https://wylab.net/volley-data-analyst-albo/
+  certificate: ../files/Attestato_VDA_2023.pdf
+
+- institution: University of Catania, Samsung Italy
+  location: "Catania, IT"
+  year: Jan. - May 2023
+  title: "Samsung Innovation Campus"
+  description: "1. Deepen the application of Internet of Things and Artificial Intelligence technologies in Consumer Electronics, Cloud and BigData. 2. Improve ideation, project management and problem-solvingskills. 3. Professional placement."
+  institution-url: https://www.samsung.com/it/campaign/innovation-campus/
+  certificate: ../files/SamsungInnovationCampus2023.pdf
+
+- institution: Opinno
+  location: "Catania, IT"
+  year: Mar 2023
+  title: "Cloud Practitioner Essentials"
+  description: 
+  certificate: ../files/Cloud_Practitioner_Essential_Attestato_Spadaro_Giovanni.pdf
+
+- institution: Ofqual
+  location: "Catania, IT"
+  year: Mar. 2018
+  title: "Cambridge First Certificate B2"
+  certificate: ../files/CambridgeCertificateB2.pdf

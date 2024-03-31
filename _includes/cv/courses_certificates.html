@@ -1,0 +1,13 @@
+<div class="cv-left-date">{{ cc.year }} {{ cc.year-extra }}</div>
+<div><a href="{{ cc.institution-url }}"><b>{{ cc.institution }}</b></a>, {{ cc.location }}</div>
+<div><i>{{ cc.title }}, <a href="{{ cc.group-url }}">{{ cc.group }}</a></i></div>
+<div class="cv-description">
+	{ cc.description }
+</div>
+<div class="cv-description">{{ cc.description }}</div>
+{% if cc.certificate %}
+	<a href="{{ cc.certificate }}">
+		<i class="fas fa-file-pdf" aria-hidden="true"></i> Certificate
+	</a>
+{% endif %}
+<div class="cv-spacer"></div>
