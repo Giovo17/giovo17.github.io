@@ -5,7 +5,7 @@ title: Home
 <div id="intro-wrapper" class="l-text">
 	<div id="intro-title-wrapper">
 		<div id="intro-image-wrapper">
-			<img id="intro-image" src="/images/portrait.jpg"></div>
+			<img id="intro-image" src="/images/portrait.jpeg"></div>
 		<div id="intro-title-text-wrapper">
 			<h1 id="intro-title">Hi, I'm Giovanni Spadaro</h1>
 			<div id="intro-subtitle">I'm a Data Science master student at University of Catania</div>
