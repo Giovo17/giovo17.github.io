@@ -1,19 +1,19 @@
 {
-  "name": "fredhohman.github.io",
+  "name": "giovannispadaro.it",
   "version": "1.0.0",
-  "description": "Fred Hohman's website.",
+  "description": "Giovanni Spadaro's website.",
   "main": "index.js",
   "scripts": {
     "start": "bundle exec jekyll serve --livereload"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fredhohman/fredhohman.github.io.git"
+    "url": "git+https://github.com/Giovo17/giovannispadaro.it.git"
   },
-  "author": "Fred Hohman",
+  "author": "Giovanni Spadaro",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fredhohman/fredhohman.github.io/issues"
+    "url": "https://github.com/Giovo17/giovannispadaro.it/issues"
   },
-  "homepage": "https://github.com/fredhohman/fredhohman.github.io#readme"
+  "homepage": "https://github.com/Giovo17/giovannispadaro.it#readme"
 }
