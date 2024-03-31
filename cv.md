@@ -53,7 +53,6 @@ jsarr:
 
 {% for cc in site.data.courses_certifications %}
 {% include cv/courses_certificates.html cc=cc %}
-{% endif %}
 {% endfor %}
 
 
