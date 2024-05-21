@@ -3,18 +3,22 @@
   years-extra: "Present"
   institution: University of Catania
   location: "Catania, IT"
-  institution-url: https://www.unict.it/
+  #thesis: ""
+  #thesis-link: ../projects/
+  #thesis-pdf: ../files/msc_thesis.pdf
+  #thesis-video: https://youtu.be/
   description:
-    - "Areas of study: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Statistics, Data Analytics"
+    - "Areas of study: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Statistics, Data Analytics."
+  institution-url: https://www.unict.it/
 
 - degree: "BSc in Computer Engineering"
-  years: "Sep. 2018 —"
+  years: "Sep 2018 —"
   years-extra: "Oct 2022"
   institution: University of Catania
   location: "Catania, IT"
   thesis: "Predictive algorithms' application in medical diagnosis"
-  #thesis-link: ../projects/3d-printing-the-trefoil-knot-and-its-pages/
-  #thesis-pdf: ../papers/fred-hohman-undergrad-thesis.pdf
+  #thesis-link: ../projects/
+  #thesis-pdf: ../files/bsc_thesis.pdf
   description: 
-    - "Final grade: 110/110, Areas of study: Computer Science, Machine Learning, Signal Processing, Electronics, Automation"
+    - "Final grade: 110/110. Areas of study: Computer Science, Machine Learning, Signal Processing, Electronics, Automation."
   institution-url: https://www.unict.it/
