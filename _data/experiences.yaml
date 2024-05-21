@@ -5,8 +5,7 @@
   mentors:
     - Prof. Francesco Beritelli
     - Ing. Michele Russo
-  description: "Analisys and implementation of GAN based tecniques for anomaly detection in industrial time-series datasetAnalisys and implementation of GAN based tecniques for anomaly detection in industrial time-series datasets."
+  description: "Analisys and implementation of GAN based tecniques for anomaly detection in time-series datasets."
   institution-url: https://unict.it
-  type: academic
-  #type: industry
+  type: academic #industry
 
