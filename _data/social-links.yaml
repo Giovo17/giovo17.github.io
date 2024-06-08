@@ -23,10 +23,10 @@
   cv-group: 2
 
 #- id: mastodon
-#  description: "fredhohman"
+#  description: ""
 #  color: "#6364FF"
 #  class: "fab fa-mastodon icon"
-#  url: "https://vis.social/@fredhohman"
+#  url: ""
 #  on-homepage: true
 
 - id: home
@@ -41,7 +41,7 @@
 #  description: "Google Scholar"
 #  color: "#515151"
 #  class: "fa fa-graduation-cap icon"
-#  url: "https://scholar.google.com/citations?user=1w0TLT8AAAAJ&hl=en"
+#  url: "https://scholar.google.com/citations?user="
 #  on-homepage: true
 #  cv-group: 2
 
