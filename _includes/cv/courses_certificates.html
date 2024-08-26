@@ -1,6 +1,6 @@
 <div class="cv-left-date">{{ cc.year }} {{ cc.year-extra }}</div>
 <div><a href="{{ cc.institution-url }}"><b>{{ cc.institution }}</b></a>, {{ cc.location }}</div>
-<div><i>{{ cc.title }}, <a href="{{ cc.group-url }}">{{ cc.group }}</a></i></div>
+<div><i>{{ cc.title }} <a href="{{ cc.group-url }}">{{ cc.group }}</a></i></div>
 <div class="cv-description">
 	{{ cc.description }}
 </div>
@@ -11,5 +11,12 @@
 		</a>
 	{% endif %}
 
+	{% if cc.register %}
+		<a href="{{ cc.register }}">
+			<i class="fas fa-link" aria-hidden="true"></i> Register
+		</a>
+	{% endif %}
+
 </div>
+
 <div class="cv-spacer"></div>
