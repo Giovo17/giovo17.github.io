@@ -8,7 +8,7 @@ Academic courses
 
 
 <div class="posts">
-  {% for post in site.categories.teaching limit:10 %}
+  {% for post in site.posts.teaching limit:10 %}
   <article class="post">
     <h2 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
