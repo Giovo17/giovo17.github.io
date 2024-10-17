@@ -7,18 +7,6 @@ id: 2024-10-23-elementi-di-matematica-di-base
 ---
 
 
-- id: prova-basic-maths
-  description: Lezione 1 Elementi di matematica di base AA 24/25  # not shown
-  small-description: Link
-  color: "#ba2818"
-  class: "far fa-file-pdf icon"
-  url: "/files/teaching/2024-10-23-elementi-di-matematica-di-base/prova.pdf"
-  on-homepage: false
-  course-id: 2024-10-23-elementi-di-matematica-di-base
-  document-type: slides
-  lesson: 1
-
-
 Elementi di Matematica di base - Scienze del Turismo
 
 Anno accademico 24/25

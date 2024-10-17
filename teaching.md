@@ -7,14 +7,6 @@ permalink: teaching/
 Academic courses
 
 
-
-
-
-
-
-
-
-
 <div class="posts">
   {% for post in site.categories.teaching limit:10 %}
   <article class="post">
