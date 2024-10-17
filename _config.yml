@@ -37,3 +37,6 @@ plugins:
 collections:
   teaching:
     output: true
+
+
+teaching_permalink: /teaching/:title/

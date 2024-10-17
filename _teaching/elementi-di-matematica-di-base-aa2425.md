@@ -3,15 +3,16 @@ layout: post
 title: AA 24/25 Elementi di Matematica di base - Scienze del Turismo
 categories: teaching
 permalink: teaching/elements-of-basic-maths-aa2425
-id: 2024-10-23-elementi-di-matematica-di-base
+id: elementi-di-matematica-di-base-aa2425
 ---
 
+
+<!--more-->
 
 Elementi di Matematica di base - Scienze del Turismo
 
 Anno accademico 24/25
 
-<!--more-->
 
 
 | Lezione         | Argomenti           | Data - Ora            | Slides          | Esercizi proposti |
