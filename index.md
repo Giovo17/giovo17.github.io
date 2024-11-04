@@ -8,7 +8,7 @@ title: Home
 			<img id="intro-image" src="/images/portrait.jpeg"></div>
 		<div id="intro-title-text-wrapper">
 			<h1 id="intro-title">Hi, I'm Giovanni Spadaro</h1>
-			<div id="intro-subtitle">I'm a Data Science master student at University of Catania</div>
+			<!-- <div id="intro-subtitle">I'm a Data Science master student at University of Catania</div> -->
 			<div id="intro-title-socials">
 				{% for link in site.data.social-links %}
 					{% if link.on-homepage == true %}
