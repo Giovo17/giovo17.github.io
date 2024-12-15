@@ -1,3 +1,11 @@
+- institution: University of Catania, IBM
+  location: "Catania, IT"
+  year: Nov 2024
+  title: "Qiskit Fall Fest Catania 2024"
+  description: Series of seminars about Basics of Quantum Mechanics, Quantum Computing and Qiskit framework. Solving 3 sets of challenges using Qiskit.
+  certificate: ../files/QiskitFallFestCatania2024_WinningAchievements.pdf
+  github_repo: https://github.com/Giovo17/qff-catania-2024
+
 - institution: University of Catania
   location: "Catania, IT"
   year: Oct - Dec 2023
@@ -18,9 +26,10 @@
   location: "Catania, IT"
   year: Jan - May 2023
   title: "Samsung Innovation Campus"
-  description: "Deepen the application of Internet of Things and Artificial Intelligence technologies in Consumer Electronics, Cloud and Big Data. Improve ideation, project management and problem-solving skills."
+  description: "Series of lessons about Machine Learning, Deep Learning, IoT and Cyber Security from UNICT professors and Samsung experts. Development of a group project about an innovative project in the field of smart homes."
   institution-url: https://www.samsung.com/it/campaign/innovation-campus/
   certificate: ../files/SamsungInnovationCampus2023.pdf
+  project_pitch: ../files/pitch_hexagarden.pptx
 
 - institution: Opinno
   location: "Catania, IT"
