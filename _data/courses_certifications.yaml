@@ -4,7 +4,7 @@
   title: "Qiskit Fall Fest Catania 2024"
   description: Series of seminars about Basics of Quantum Mechanics, Quantum Computing and Qiskit framework. Solving 3 sets of challenges using Qiskit.
   certificate: ../files/QiskitFallFestCatania2024_WinningAchievements.pdf
-  github_repo: https://github.com/Giovo17/qff-catania-2024
+  repo: https://github.com/Giovo17/qff-catania-2024
 
 - institution: University of Catania
   location: "Catania, IT"
