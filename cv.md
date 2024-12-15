@@ -49,9 +49,9 @@ jsarr:
 {% endfor %}
 
 
-## Courses and Certificates
+## Courses, Hackathons, Certificates and others
 
-{% for cc in site.data.courses_certifications %}
+{% for cc in site.data.courses_certificates %}
 {% include cv/courses_certificates.html cc=cc %}
 {% endfor %}
 

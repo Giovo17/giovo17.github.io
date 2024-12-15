@@ -35,8 +35,14 @@
   location: "Catania, IT"
   year: Mar 2023
   title: "Cloud Practitioner Essentials"
-  description: Introduction to AWS platform.
+  description: Introduction to the AWS platform.
   certificate: ../files/Cloud_Practitioner_Essential_Attestato_Spadaro_Giovanni.pdf
+
+- institution: Var Group
+  location: "Riccione, IT"
+  year: May 2019
+  title: "MasterTech Hackathon 2019"
+  description: Solve a business problem related to the supermarket checkout queue forecast in 32 hours using Machine Learning techniques.
 
 - institution: Ofqual
   location: "Catania, IT"
