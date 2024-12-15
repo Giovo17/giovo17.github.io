@@ -43,7 +43,34 @@ jsarr:
 ## Academic Research Experience
 
 {% for experience in site.data.experiences %}
-{% if experience.type == 'academic' %}
+{% if experience.type == 'research_academic' %}
+{% include cv/experience.html experience=experience %}
+{% endif %}
+{% endfor %}
+
+
+## Industrial Experience
+
+{% for experience in site.data.experiences %}
+{% if experience.type == 'industry' %}
+{% include cv/experience.html experience=experience %}
+{% endif %}
+{% endfor %}
+
+
+## Teaching Experience
+
+{% for experience in site.data.experiences %}
+{% if experience.type == 'teaching' %}
+{% include cv/experience.html experience=experience %}
+{% endif %}
+{% endfor %}
+
+
+## Voluunteering
+
+{% for experience in site.data.experiences %}
+{% if experience.type == 'volunteering' %}
 {% include cv/experience.html experience=experience %}
 {% endif %}
 {% endfor %}

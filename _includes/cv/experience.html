@@ -13,4 +13,14 @@
 </div>
 {% endif %}
 <div class="cv-description">{{ experience.description }}</div>
+
+<div class="pub-misc">
+	{% if cc.profile_page %}
+		<a href="{{ cc.profile_page }}">
+			<i class="fas fa-file-pdf" aria-hidden="true"></i> Profile page
+		</a>
+	{% endif %}
+
+</div>
+
 <div class="cv-spacer"></div>

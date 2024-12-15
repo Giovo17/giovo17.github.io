@@ -7,5 +7,58 @@
     - Ing. Michele Russo
   description: "Analisys and implementation of GAN based tecniques for anomaly detection in time-series datasets."
   institution-url: https://unict.it
-  type: academic #industry
+  type: research_academic #research_industry
+
+
+- institution: Freelance
+  location: "Catania, IT"
+  position: AI engineer
+  years: "Sep 2024 -"
+  years-extra: "Present"
+  description: "This experience can be explained in the development of the following parts:
+1. Text classification system based on the transformer encoder-only architecture and on a custom training recipe.
+2. Score-based text matching system tailored to the specific business problem.
+3. Data management and ingestion procedures. Including data cleaning, LLM-based data enrichment and third-party services data enrichment.
+4. Development of a simple demo web app.
+
+Main technologies used: PyTorch, Transformers, Pandas, Duckdb, LangChain, HuggingFace spaces, Gradio."
+  type: industry
+
+
+- institution: Silk Shells Consulting
+  location: "Remote"
+  position: Data Scientist
+  year: Jun - Jul 2024
+  #mentors:
+  #  - Ing. Filippo Privitera
+  description: "- Development of XGBoost-based multiclass classification system aimed atdiscriminating a candidate based on features partly proposed by thecandidate and partly engineered from structured and unstructured sources (PDF curriculum).
+- Gradio-based demo web application to show the system's prototype.
+- Deployment of the serving infrastructure in production on AWS platform.
+
+Main services used: Sagemaker, Lambda, Event Bridge.
+Skills Acquired: Pandas, Scikit-learn, XGBoost, OpenAI, PostgreSQL, Git, AWS, Google Cloud, HuggingFace spaces."
+  type: industry
+
+
+- institution: Superprof
+  location: "Remote - Catania, IT"
+  position: Private Professor
+  years: "Sep 2022 -"
+  years-extra: "Present"
+  description: "Private lessons of Mathematics, Physics, Computer Science, Electrotechnics, Machine Learning, Natural Language Processing and Computer Vision for MSc, BSc and high school students. Make students grow academically and get them excited about scientific subjects."
+  type: industry
+  profile_page: https://www.superprof.it/dottore-ingegneria-informatica-offre-lezioni-private-machine-learning-natural-language-processing-computer-vision-materie.html"
+
+
+- institution: UNICT FSC
+  location: "Catania, IT"
+  position: Automotive engineer
+  years: "Nov 2024 -"
+  years-extra: "Present"
+  description: "I'm part of the Low Voltage division of the Catania team taking that should take part in the Formula SAE competiton.
+My role since now has been to manage the workflow of the Low and High Voltage divisions and taking part to the R&D of a communication system based on the CAN-bus protocol."
+  #institution-url: 
+  type: volunteering
+
+
 
