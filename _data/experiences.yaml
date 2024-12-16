@@ -13,8 +13,8 @@
 - institution: Freelance
   location: "Catania, IT"
   position: AI engineer
-  years: "Sep 2024 -"
-  years-extra: "Present"
+  year: "Sep 2024 -"
+  year-extra: "Present"
   description: "1. Text classification system based on the transformer encoder-only architecture and on a custom training recipe.
 2. Score-based text matching system tailored to the specific business problem.
 3. Data management and ingestion procedures. Including data cleaning, LLM-based data enrichment and third-party services data enrichment.
@@ -42,8 +42,8 @@ Skills Acquired: Pandas, Scikit-learn, XGBoost, OpenAI, PostgreSQL, Git, AWS, Go
 - institution: Superprof
   location: "Remote - Catania, IT"
   position: Private Professor
-  years: "Sep 2022 -"
-  years-extra: "Present"
+  year: "Sep 2022 -"
+  year-extra: "Present"
   description: "Private lessons of Mathematics, Physics, Computer Science, Electrotechnics, Machine Learning, Natural Language Processing and Computer Vision for MSc, BSc and high school students. Make students grow academically and get them excited about scientific subjects."
   profile_page: https://www.superprof.it/dottore-ingegneria-informatica-offre-lezioni-private-machine-learning-natural-language-processing-computer-vision-materie.html"
   type: teaching
@@ -52,8 +52,8 @@ Skills Acquired: Pandas, Scikit-learn, XGBoost, OpenAI, PostgreSQL, Git, AWS, Go
 - institution: UNICT FSC
   location: "Catania, IT"
   position: Automotive engineer
-  years: "Nov 2024 -"
-  years-extra: "Present"
+  year: "Nov 2024 -"
+  year-extra: "Present"
   description: "I'm part of the Low Voltage division of the Catania team taking that should take part in the Formula SAE competiton.
 My role since now has been to manage the workflow of the Low and High Voltage divisions and taking part to the R&D of a communication system based on the CAN-bus protocol."
   #institution-url: 
