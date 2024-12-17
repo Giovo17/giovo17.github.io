@@ -12,7 +12,17 @@
 	{% endfor %}
 </div>
 {% endif %}
-<div class="cv-description">{{ experience.description }}</div>
+
+<!-- <div class="cv-description">{{ experience.description }}</div> -->
+<div class="cv-description">
+	{% for line in experience.description %}
+	{% if forloop.last == false %}
+		{% include line=line %}</br>	
+	{% else if forloop.last == true %}
+		{% include line=line %}
+	{% endfor %}
+</div>
+
 
 <div class="pub-misc">
 	{% if cc.profile_page %}
