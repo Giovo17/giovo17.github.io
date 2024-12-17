@@ -5,8 +5,7 @@
   mentors:
     - Prof. Francesco Beritelli
     - Ing. Michele Russo
-  description: 
-    - "Analisys and implementation of GAN based tecniques for anomaly detection in time-series datasets."
+  description: "Analisys and implementation of GAN based tecniques for anomaly detection in time-series datasets."
   institution-url: https://unict.it
   type: research_academic #research_industry
 
@@ -16,12 +15,12 @@
   position: AI engineer
   year: "Sep 2024 -"
   year-extra: "Present"
-  description: 
-    - "1. Text classification system based on the transformer encoder-only architecture and on a custom training recipe."
-    - "2. Score-based text matching system tailored to the specific business problem."
-    - "3. Data management and ingestion procedures. Including data cleaning, LLM-based data enrichment and third-party services data enrichment."
-    - "4. Development of a simple demo web app."
-    - "Main technologies used: PyTorch, Transformers, Pandas, Duckdb, LangChain, HuggingFace spaces, Gradio."
+  description: "1. Text classification system based on the transformer encoder-only architecture and on a custom training recipe.
+2. Score-based text matching system tailored to the specific business problem.
+3. Data management and ingestion procedures. Including data cleaning, LLM-based data enrichment and third-party services data enrichment.
+4. Development of a simple demo web app.
+
+Main technologies used: PyTorch, Transformers, Pandas, Duckdb, LangChain, HuggingFace spaces, Gradio."
   type: industry
 
 
@@ -31,12 +30,12 @@
   year: Jun - Jul 2024
   #mentors:
   #  - Ing. Filippo Privitera
-  description: 
-    - "1. Development of XGBoost-based multiclass classification system aimed atdiscriminating a candidate based on features partly proposed by thecandidate and partly engineered from structured and unstructured sources (PDF curriculum)."
-    - "2. Gradio-based demo web application to show the system's prototype."
-    - "3. Deployment of the serving infrastructure in production on AWS platform."
-    - "Main services used: Sagemaker, Lambda, Event Bridge."
-    - "Main technologies used: Pandas, Scikit-learn, XGBoost, OpenAI, PostgreSQL, Git, AWS, Google Cloud, HuggingFace spaces."
+  description: "1. Development of XGBoost-based multiclass classification system aimed atdiscriminating a candidate based on features partly proposed by thecandidate and partly engineered from structured and unstructured sources (PDF curriculum).
+2. Gradio-based demo web application to show the system's prototype.
+3. Deployment of the serving infrastructure in production on AWS platform.
+
+Main services used: Sagemaker, Lambda, Event Bridge.
+Skills Acquired: Pandas, Scikit-learn, XGBoost, OpenAI, PostgreSQL, Git, AWS, Google Cloud, HuggingFace spaces."
   type: industry
 
 
@@ -45,8 +44,7 @@
   position: Private Professor
   year: "Sep 2022 -"
   year-extra: "Present"
-  description: 
-    - "Private lessons of Mathematics, Physics, Computer Science, Electrotechnics, Machine Learning, Natural Language Processing and Computer Vision for MSc, BSc and high school students. Make students grow academically and get them excited about scientific subjects."
+  description: "Private lessons of Mathematics, Physics, Computer Science, Electrotechnics, Machine Learning, Natural Language Processing and Computer Vision for MSc, BSc and high school students. Make students grow academically and get them excited about scientific subjects."
   profile_page: https://www.superprof.it/dottore-ingegneria-informatica-offre-lezioni-private-machine-learning-natural-language-processing-computer-vision-materie.html"
   type: teaching
 
@@ -56,9 +54,8 @@
   position: Automotive software engineer
   year: "Nov 2024 -"
   year-extra: "Present"
-  description: 
-    - "I'm part of the Low Voltage division of the Catania team taking that should take part in the Formula SAE competiton."
-    - "My role since now has been to manage the workflow of the Low and High Voltage divisions and taking part to the R&D of a communication system based on the CAN-bus protocol."
+  description: "I'm part of the Low Voltage division of the Catania team taking that should take part in the Formula SAE competiton.
+My role since now has been to manage the workflow of the Low and High Voltage divisions and taking part to the R&D of a communication system based on the CAN-bus protocol."
   #institution-url: 
   type: volunteering
 
