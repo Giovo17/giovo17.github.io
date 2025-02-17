@@ -21,22 +21,28 @@ title: Home
 	<!-- <hr class="l-middle home-hr"> -->
 	<div id="everything-else" class="l-middle">
 		
-		<!-- <a href="{{ site.url }}/dissemination"><div><i class="fa fa-chalkboard-user icon icon-right-space"></i>Teaching</div></a> -->
+		<!-- <a href="{{ site.url }}/dissemination"><div><i class="fa fa-chalkboard-user icon icon-right-space"></i>Dissemination</div></a> -->
 
 		<!-- <a href="{{ site.url }}/blog"><div><i class="fa fa-chalkboard-user icon icon-right-space"></i>Blog</div></a> -->
 		<!-- <a href="{{ site.url }}/teaching"><div><i class="fa fa-chalkboard-user icon icon-right-space"></i>Teaching</div></a> -->
 		<!-- <a href="{{ site.url }}/projects"><div><i class="fa fa-shapes icon icon-right-space"></i>Projects</div></a> -->
-		<!-- <a href="{{ site.url }}/everything-else"><div><i class="fa fa-list-ul icon icon-right-space"></i>Everything Else</div></a> -->
 		
 		<a href="{{ site.url }}/cv"><div><i class="fa fa-portrait icon icon-right-space"></i>CV</div></a>
 		
+		<!-- <a href="{{ site.url }}/everything-else"><div><i class="fa fa-list-ul icon icon-right-space"></i>Everything Else</div></a> -->
+
 	</div>
-	<div style="height: 1rem"></div>
-	<h1>Site under construction</h1>
-	<div style="height: 1rem"></div>
+
+	<!-- <div style="height: 1rem"></div> -->
+	<!-- <h1>Site under construction</h1> -->
+	<!-- <div style="height: 1rem"></div> -->
 	<div>
 	Computer Engineer, master student in Data Science at University of Catania, private professor, ML research enthusiast and applied AI solutions lover.
 	</div>
+
+	<!-- <div style="height: 1rem"></div> -->
+	<!-- <h2>News</h2> -->
+	<!-- <div style="height: 1rem"></div> -->
 
 </div>
 
